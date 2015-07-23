@@ -2,3 +2,6 @@ estoy probando los cambios
  parece que si pero no se como hacer para que se me suban de una
 
  ya entendi... para subir los cambios tengo que hacer un nuevo commmit y para hacer un nuevo commit tengo que ponerle un nombre .. esa es la forma de subir los cambios
+
+------------------------------------------
+

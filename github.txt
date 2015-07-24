@@ -1,7 +1,45 @@
-estoy probando los cambios
- parece que si pero no se como hacer para que se me suban de una
 
- ya entendi... para subir los cambios tengo que hacer un nuevo commmit y para hacer un nuevo commit tengo que ponerle un nombre .. esa es la forma de subir los cambios
 
-------------------------------------------
+SISTEMA DE CONTROL DE VERSIONES
+
+FTP no es un sistema de control de versiones
+Archivos
+FTP ---> Hosting  /public_html/index.php
+www.fuckencio.com
+
+========
+
+Github / SVN (Subversion) / TFS / Mercurial
+
+Git: Control de versiones
+Github: Web app consolida el control de versiones
+
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
+========
+
+Repositorio de código
+
+1. Múltiples versiones del mismo código
+2. Cambios DELTA
+	Base de datos atómica del código
+3. Historial de cada archivo 
+4. Múltiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			-- MERGE (experimento - master)
+		* experimento LOCAL
+
+	* master (servidor.com) REPO PRODUCCIÓN
+
+
+
+
+
+
+
 
